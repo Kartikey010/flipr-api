@@ -23,3 +23,5 @@ To run from the docker :
 3.write command  < docker run --name flipr-api -p 8000:8000 -d flipr-api-server >
   
 4. then < docker logs -f flipr-api >
+
+>>>>>>>>>>>  Server will run on localhost 8000
