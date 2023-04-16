@@ -1,13 +1,18 @@
 # flipr-api
 
 If running from terminal then create a .env file consisting MONGODB_URL=""   //your mongodb url 
+
 If running in docker then make sure to add ENV MONGODB_URL=<your mongodb url> in your Dockerfile
+
 
 To run from the terminal :
 
-1.npm install
+1.npm install 
+
 2.create.env file conatining MONGODB_URL
+
 3.npm start
+
 
 To run from the docker :
 
